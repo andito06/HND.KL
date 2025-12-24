@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kalku</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="calculator">
+  <div class="top-bar">
+    <h2>Kalku 🧮</h2>
+    <button id="theme-toggle">🌙</button>
+  </div>
+
+  <input id="display" type="text" readonly>
+
+  <!-- HISTORY -->
+  <div class="history-box">
+    <div class="history-header">
+      <span>History</span>
+      <button id="clear-history">Hapus</button>
+    </div>
+    <div id="history"></div>
+  </div>
+
+  <!-- BUTTONS -->
+  <div class="buttons">
+    <button>C</button><button>⌫</button><button>÷</button><button>×</button>
+    <button>7</button><button>8</button><button>9</button><button>−</button>
+    <button>4</button><button>5</button><button>6</button><button>+</button>
+    <button>1</button><button>2</button><button>3</button><button>=</button>
+    <button>0</button><button>.</button><button>(</button><button>)</button>
+    <button>sin</button><button>cos</button><button>tan</button><button>log</button>
+    <button>√</button><button>x²</button><button>π</button><button>e</button>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
