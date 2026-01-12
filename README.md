@@ -1,5 +1,6 @@
-## halo, ini projek pertama saya dan teman saya yang bernama Kalku.
-saya dan teman saya baru belajar membuat projek ini menggunakan bahasa Html,css,dan js. kita menjalankanya dengan Visual Studio Code
+# welcome in Kalkulator HND
+ini project pertama saya dan teman saya yang bernama Kalkulator HND. 
+saya dan teman saya baru belajar membuat projek ini, kita menggunakan bahasa Html,css,dan js. kita menjalankan nya dengan Visual Studio Code
 ### Developer
 andito
 habibi
